@@ -9,5 +9,5 @@ Para evitar redundancia, se ejemplificará de forma detallada, únicamente la pa
 
 **Contenidos:**
 
-- El _notebook_ "UnitTestingPLU.ipynb" puede ejecutarse en _google collab_  haciendo click en el siguiente botón:
+- El _notebook_ "UnitTestingPLU.ipynb" puede ejecutarse en _google collab_  haciendo click en el siguiente botón: <a href="https://colab.research.google.com/github/C1587S/MNO-interactivePLU/blob/master/UnitTestingPLU.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
