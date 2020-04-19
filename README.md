@@ -11,3 +11,4 @@ Para evitar redundancia, se ejemplificará de forma detallada, únicamente la pa
 
 - El _notebook_ "UnitTestingPLU.ipynb" puede ejecutarse en _google collab_  haciendo click en el siguiente botón: <a href="https://colab.research.google.com/github/C1587S/MNO-interactivePLU/blob/master/UnitTestingPLU.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+- El ejemplo utilizando un enfoque modular, y ejecutanto los tests desde la línea de comandos, o usando _magic commands_ desde un _jupyternotebook_  puede ejecutarse dando clicl al siguiente botón: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C1587S/MNO-interactivePLU/master)
