@@ -11,4 +11,31 @@ Para evitar redundancia, se ejemplificará de forma detallada, únicamente la pa
 
 - El _notebook_ "UnitTestingPLU.ipynb" puede ejecutarse en _google collab_  haciendo click en el siguiente botón: <a href="https://colab.research.google.com/github/C1587S/MNO-interactivePLU/blob/master/UnitTestingPLU.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### Binder
+
 - El ejemplo utilizando un enfoque modular, y ejecutanto los tests desde la línea de comandos, o usando _magic commands_ desde un _jupyternotebook_  puede ejecutarse dando clicl al siguiente botón: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C1587S/MNO-interactivePLU/master)
+
+Para ejecutar los test unitarios que garantizan vairas pruebas individuales del correcto funcionamiento del algoritmo, debemos **abrir una nueva terminal** en el entorno de jupyter generador por `binder`.
+
+Posteriormente, entramos al directorio _code_ y ejecutamos los test unitarios dispnibles en el script _test_plu.py_ utilizando `pytest`.
+
+Los comando específicos a ejectuar en la terminal son los siguientes:
+
+```{bash}
+$cd code
+$pytest -v test_plu.py
+```
+
+
+En particular, debemos observar si cada test pasó o falló si utilizamos la bandera `-v`
+
+Un ejemplo, del test _durante su ejecución_ es el siguiente:
+
+Incluir imagen.
+
+
+Si queremos que se muestren los stadout intermedios producidos durante ls pruebas, debemos utilizar la bandera `-s`
+
+```{bash}
+$pytest -v -s test_plu.py
+```
