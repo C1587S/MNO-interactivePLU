@@ -2,3 +2,6 @@ line_profiler
 memory_profiler
 psutil
 guppy3
+pytest
+pandas
+scipy
