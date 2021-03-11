@@ -1,6 +1,6 @@
 # MNO-InteractivePLU
 
-Este repositorio es creado para ejecutar los algoritmos de facotización PLU de manera interactiva generados en el examen de computo matricial de la materia métodos numéricos y optimización, disponible en el siguiente [repositorio](https://github.com/mno-2020-gh-classroom/ex-modulo-3-comp-matricial-plu-paola-md/tree/master/src/test_algorithms) **privado**. Dao lo anterior, únicamente se encuentra disponible el repositorio anterior para los usuarios autorizados.
+Este repositorio es creado para ejecutar los algoritmos de facotización PLU de manera interactiva generados en el examen de computo matricial de la materia métodos numéricos y optimización, disponible en el siguiente [repositorio](https://github.com/mno-2020-gh-classroom/ex-modulo-3-comp-matricial-plu-paola-md/tree/master/src/test_algorithms) **privado**. Dado lo anterior, únicamente se encuentra disponible el repositorio anterior para los usuarios autorizados.
 
 
 Para ejemplificar dos las herramientas utilizadas en clase para ejecutar código de manera interactiva. En particular, se utilizan `binder` y `google collab`. Para poder generar botones interactivos de dichas herramientos, se generóp este repositorio de carácter **público*.
